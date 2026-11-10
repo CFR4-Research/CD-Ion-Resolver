@@ -155,3 +155,13 @@ For reproducibility, record the **CD-Ion-Resolver release/tag**, **Compound Disc
 
 License information will be added before public distribution, following the applicable institutional requirements.
 
+## Citation
+
+If you use CD-Ion-Resolver in your research, please cite:
+
+Ferri, E.; Caprari, C.; Cecchi, R.; Verri, P.; Citti, C.; Cannazza, G. **Beyond Ion Features: Resolving Ion Redundancy for LC–HRMS/MS.** *ChemRxiv*, 2026.
+
+https://doi.org/10.26434/chemrxiv.15011797
+
+*This manuscript is currently under peer review. The citation will be updated upon publication of the peer-reviewed article.*
+
