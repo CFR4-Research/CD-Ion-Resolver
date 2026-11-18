@@ -161,7 +161,7 @@ If you use CD-Ion-Resolver in your research, please cite:
 
 Ferri, E.; Caprari, C.; Cecchi, R.; Verri, P.; Citti, C.; Cannazza, G. **Beyond Ion Features: Resolving Ion Redundancy for LC–HRMS/MS.** *ChemRxiv*, 2026.
 
-https://doi.org/10.26434/chemrxiv.15011797
+https://doi.org/10.26434/chemrxiv.15011797/v1
 
 *This manuscript is currently under peer review. The citation will be updated upon publication of the peer-reviewed article.*
 
